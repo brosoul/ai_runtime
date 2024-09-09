@@ -22,7 +22,7 @@ jobs:
     strategy:
       matrix:
         python-version: ["3.11"]
-    name: Lint
+    name: publish
     steps:
       - name: Check out source repository
         uses: actions/checkout@v4
