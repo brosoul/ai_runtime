@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ai-runtime"
-version = "0.1.0"
+version = "0.1.0.rc4"
 description = ""
 authors = ["Runtime Authors <brosoul@126.com>", "Runtime Authors <brosoul@163.com>"]
 readme = "README.md"
